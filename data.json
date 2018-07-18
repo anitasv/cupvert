@@ -1,3 +1,45 @@
 {
+    "stonesoup_wings": {
+        "models": {
+            "green": {
+                "picture": "",
+                "dimensions": {
+                    "capacity": {
+                        "upto_holes": "",
+                        "upto_rim": ""
+                    },
+                    "length": {
+                        "cup_length": "",
+                        "stem_length": "",
+                        "overall_length": ""
+                    },
+                    "rim_diameter": "",
+                    "strength": ["soft", "medium", "hard"]
+                }
+            },
+            "blue": {}
+        },
+        "product_page": "",
+        "website": "",
+        "buy": {
+            "order_website": "",
+            "retail_price": "",
+            "currency": "",
+            "shipping_extra": "",
+            "ship_to_india": true
+        }
+    },
+    "lali_cup": {
+
+    },
+    "juju_cup": {
+
+    },
+    "silky_cup": {
+
+    },
+    "diva_cup": {
+
+    }
 
 }
